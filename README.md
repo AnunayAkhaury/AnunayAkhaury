@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm a Computer Science student at UC Davis with a passion for coding and experience in full-stack development, software engineering, web development, and machine learning. I've got hands-on experience from personal projects, internships, and research opportunities.<br><br>Eager to elevate my skills further, I'm on the lookout for a software engineering internship for the summer of 2024. Reach out at aakhaury@ucdavis.edu!
+Hello there! I'm a Computer Science student at UC Davis with a passion for coding and experience in full-stack development, software engineering, web development, and machine learning. I've got hands-on experience from personal projects, internships, and research opportunities.<br><br>Eager to elevate my skills further, I'm on the lookout for a software engineering internship for the summer of 2025. Reach out at anunay2003@gmail.com!
 
 
 ## 🌐 Socials:
